@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Horizons",
-    "currentPage": "index.html",
+    "currentPage": "foundervideo.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -381,7 +381,7 @@
     "foundervideo.html": {
       "settings": {
         "meta_descr": "Founder Video",
-        "title": "Meet_our_CEO",
+        "title": "Meet our CEO",
         "order": 2
       },
       "components": [
@@ -512,7 +512,7 @@
     "about.html": {
       "settings": {
         "meta_descr": "Who is Horizons?",
-        "title": "About_Us",
+        "title": "About Us",
         "order": 1
       },
       "components": [
